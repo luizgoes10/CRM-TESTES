@@ -1,0 +1,68 @@
+﻿<div class="menu" onmouseover="expandedMenu()" onmouseout="hideMenu()">
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="dashboard" Match="NavLinkMatch.All">
+                    <span class="oi oi-dashboard" aria-hidden="true"></span><span id="dashboardText">Dashboard</span>
+            </NavLink>
+        </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="leads">
+                    <span class="oi oi-dashboard" aria-hidden="true"></span><span id="leadsText">Leads</span>
+                </NavLink>
+            </div>
+    </nav>
+</div>
+</div>
+<script>
+    function expandedMenu() {
+        document.querySelector('.menu').classList.add('expanded');
+    }
+
+    function hideMenu() {
+        document.querySelector('.menu').classList.remove('expanded');
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        var dashboardLink = document.querySelector('#dashboardText');
+        dashboardLink.innerHTML = '<i class="fas fa-chart-line"></i>';
+
+        var leadsLink = document.querySelector('#leadsText');
+        leadsLink.innerHTML = '<i class="fas fa-chart-line"></i>';
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        var isCollapsed = true; // Estado inicial do menu retraído
+        var dashboardText = document.getElementById("dashboardText");
+        var leadsLink = document.getElementById("leadsText");
+
+        // Função que troca o texto por um ícone
+        function toggleDashboardText() {
+            if (isCollapsed) {
+                // Aqui usamos o ícone Font Awesome correto
+                dashboardText.innerHTML = '<i class="fas fa-chart-line"></i>'; // fas é para ícones sólidos
+                leadsLink.innerHTML = '<i class="fas fa-chart-line"></i>';
+            } else {
+                dashboardText.innerHTML = 'Dashboard';
+                leadsLink.innerHTML = 'Leads';
+            }
+        }
+
+        // Detecta o evento de mouse para expandir ou retrair o menu
+        document.querySelector(".sidebar").addEventListener('mouseover', function () {
+            isCollapsed = false;
+            toggleDashboardText();
+        });
+
+        document.querySelector(".sidebar").addEventListener('mouseout', function () {
+            isCollapsed = true;
+            toggleDashboardText();
+        });
+    });
+
+    
+</script>
+
+

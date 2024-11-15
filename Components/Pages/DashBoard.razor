@@ -1,0 +1,90 @@
+﻿@page "/dashboard"
+@using Spill.Core.Web.DBModels.Interfaces
+@inject IChatService ChatService
+@inject ILeadService LeadService
+@rendermode InteractiveServer
+
+<h3>CRM Dashboard</h3>
+
+
+<!-- Filtros -->
+<div class="mb-4">
+    <button class="btn btn-outline-primary" @onclick="() => ApplyFilter(_today)">Hoje</button>
+    <button class="btn btn-outline-primary" @onclick="() => ApplyFilter(_yesterday)">Ontem</button>
+    <button class="btn btn-outline-primary" @onclick="() => ApplyFilter(_week)">Semana</button>
+    <button class="btn btn-outline-primary" @onclick="() => ApplyFilter(_month)">Mês</button>
+    <button class="btn btn-outline-primary" @onclick="() => ApplyFilter(_all)">Tudo</button>
+</div>
+
+<div class="row">
+    <!-- Card: Mensagens recebidas e Bate-papo on-line -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Mensagens Recebidas e Bate-papo On-line</div>
+            <div class="card-body">
+                <p>Mensagens Recebidas: @receivedMessages</p>
+                <p>Bate-papo On-line: @onlineChats</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Card: Conversas atuais -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Conversas Atuais</div>
+            <div class="card-body">
+                <p>Conversas Ativas: @currentConversations</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Card: Chats sem resposta -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Chats Sem Resposta</div>
+            <div class="card-body">
+                <p>Chats Sem Resposta: @unansweredChats</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Card: Tempo médio de resposta -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Tempo Médio de Resposta</div>
+            <div class="card-body">
+                <p>Tempo Médio de Resposta: @averageResponseTime minutos</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Outros cards (Leads) -->
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">Leads Ganhos</div>
+            <div class="card-body">
+                <p>Total: @wonLeads</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">Leads Ativos</div>
+            <div class="card-body">
+                <p>Total: @activeLeads</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">Leads Perdidos</div>
+            <div class="card-body">
+                <p>Total: @lostLeads</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+

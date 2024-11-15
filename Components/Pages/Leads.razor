@@ -1,0 +1,68 @@
+﻿@page "/leads"
+
+@using Spill.Core.Web.DBModels.Interfaces
+@using Spill.Core.Web.Application.Interfaces
+@inject ILeadService leadService
+@inject ILeadsApplication leadApplication
+
+@rendermode InteractiveServer
+
+<h3>Leads</h3>
+
+<!-- Formulário para adicionar novo lead -->
+<div>
+    <h4>Add New Lead</h4>
+    <EditForm Model="newLead" OnValidSubmit="CreateLead" FormName="leadForm">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label for="name">Name</label>
+            <InputText id="name" class="form-control" @bind-Value="newLead.str_name" />
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email</label>
+            <InputText id="email" class="form-control" @bind-Value="newLead.str_email" />
+        </div>
+
+        <div class="form-group">
+            <label for="phone">Phone</label>
+            <InputText id="phone" class="form-control" @bind-Value="newLead.str_phone" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Lead</button>
+    </EditForm>
+</div>
+
+<hr />
+
+<!-- Lista de leads -->
+<div>
+    <h4>Leads List</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var lead in leads)
+            {
+                <tr>
+                    <td>@lead.str_name</td>
+                    <td>@lead.str_email</td>
+                    <td>@lead.str_phone</td>
+                    <td>@lead.int_status_id</td>
+                    <td>
+                        <button class="btn btn-success" @onclick="() => SendMessage(lead)">Send WhatsApp Message</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

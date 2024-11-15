@@ -1,0 +1,36 @@
+/* Estilo para a página principal */
+.page {
+    display: flex;
+}
+
+/* Estilo para a sidebar */
+.sidebar {
+    width: 60px; /* Largura retraída */
+    transition: width 0.3s ease;
+    background-color: #333;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+    .sidebar.expanded {
+        width: 250px; /* Largura expandida */
+    }
+
+/* Estilo para o conteúdo principal */
+.main-content {
+    margin-left: 60px; /* Ajuste o conteúdo quando o menu estiver retraído */
+    transition: margin-left 0.3s ease;
+    padding: 20px;
+}
+
+.main-content {
+    margin-left: 60px;
+}
+
+.sidebar.expanded + .main-content {
+    margin-left: 250px; /* Ajuste o conteúdo quando o menu estiver expandido */
+}

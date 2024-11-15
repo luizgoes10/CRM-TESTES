@@ -1,0 +1,11 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar" @onmouseover="ExpandSidebar" @onmouseout="CollapseSidebar">
+        <NavMenu />
+    </div>
+
+    <main class="main-content">
+        @Body
+    </main>
+</div>
