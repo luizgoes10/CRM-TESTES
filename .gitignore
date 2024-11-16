@@ -1,0 +1,10 @@
+# Ignorar pastas e arquivos temporários do Visual Studio
+.vs/
+.idea/
+.vscode/
+bin/
+obj/
+
+# Ignorar arquivos específicos de sistema operacional
+Thumbs.db
+ehthumbs.db
