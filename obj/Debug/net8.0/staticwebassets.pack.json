@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Spill.Core.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Spill.Core.Web.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Spill.Core.Web.dfidh4f6v0.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\wwwroot\\app.css",
@@ -23,6 +23,10 @@
     {
       "Id": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\wwwroot\\script.js",
       "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Spill.Core.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Spill.Core.Web.Microsoft.AspNetCore.StaticWebAssets.props",

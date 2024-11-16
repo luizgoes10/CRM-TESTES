@@ -3,56 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\leads.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\leads.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\application\\interfaces\\ileadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:application\\interfaces\\ileadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\leads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\leads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\application\\leadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:application\\leadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\auxiliarmodels\\sendwhatsappmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\auxiliarmodels\\sendwhatsappmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\application\\interfaces\\ileadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:application\\interfaces\\ileadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\application\\leadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:application\\leadsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\services\\metaservices\\metaapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:services\\metaservices\\metaapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\leadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\leadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\whatsappchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\whatsappchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\whatsappmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\whatsappmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\leads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\leads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\interfaces\\ileadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,32 +51,12 @@
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\leadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,32 +67,68 @@
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\whatsappmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\whatsappmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\whatsappchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\whatsappchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\leadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\leadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\dbmodels\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:dbmodels\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\layout\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\layout\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA97B26-64F3-438F-9F9B-840495E5614D}|Spill.Core.Web.csproj|c:\\users\\lcggo\\workspace\\spill.core.web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -142,89 +146,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SendWhatsappMessageRequest.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
-              "RelativeDocumentMoniker": "Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
-              "RelativeToolTip": "Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:45:35.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ILeadsApplication.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\Interfaces\\ILeadsApplication.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\ILeadsApplication.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\Interfaces\\ILeadsApplication.cs",
-              "RelativeToolTip": "Application\\Interfaces\\ILeadsApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:43:52.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeadsApplication.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\LeadsApplication.cs",
-              "RelativeDocumentMoniker": "Application\\LeadsApplication.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\LeadsApplication.cs",
-              "RelativeToolTip": "Application\\LeadsApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:21:56.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MetaApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Services\\MetaServices\\MetaApiClient.cs",
-              "RelativeDocumentMoniker": "Services\\MetaServices\\MetaApiClient.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Services\\MetaServices\\MetaApiClient.cs",
-              "RelativeToolTip": "Services\\MetaServices\\MetaApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:40:46.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Leads.razor.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor.cs",
-              "RelativeDocumentMoniker": "Components\\Pages\\Leads.razor.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor.cs",
-              "RelativeToolTip": "Components\\Pages\\Leads.razor.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:01:40.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Leads.razor",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Leads.razor",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor",
-              "RelativeToolTip": "Components\\Pages\\Leads.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T22:01:25.093Z",
+              "WhenOpened": "2024-11-16T02:19:29.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "ILeadService.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\Interfaces\\ILeadService.cs",
               "RelativeDocumentMoniker": "DBModels\\Interfaces\\ILeadService.cs",
@@ -232,12 +171,11 @@
               "RelativeToolTip": "DBModels\\Interfaces\\ILeadService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:21:20.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:21:20.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "LeadService.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\LeadService.cs",
               "RelativeDocumentMoniker": "DBModels\\LeadService.cs",
@@ -245,12 +183,11 @@
               "RelativeToolTip": "DBModels\\LeadService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAswC4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T19:02:44.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T19:02:44.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Lead.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\Lead.cs",
               "RelativeDocumentMoniker": "Models\\Lead.cs",
@@ -258,12 +195,11 @@
               "RelativeToolTip": "Models\\Lead.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T20:40:07.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T20:40:07.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
@@ -271,12 +207,11 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAGIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-12T21:32:50.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T21:32:50.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 14,
               "Title": "IDatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\Interfaces\\IDatabaseService.cs",
               "RelativeDocumentMoniker": "DBModels\\Interfaces\\IDatabaseService.cs",
@@ -288,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 15,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -300,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "WhatsAppMessage.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\WhatsAppMessage.cs",
               "RelativeDocumentMoniker": "Models\\WhatsAppMessage.cs",
@@ -308,12 +243,11 @@
               "RelativeToolTip": "Models\\WhatsAppMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:22:24.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:22:24.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "WhatsAppChat.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\WhatsAppChat.cs",
               "RelativeDocumentMoniker": "Models\\WhatsAppChat.cs",
@@ -321,12 +255,11 @@
               "RelativeToolTip": "Models\\WhatsAppChat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T19:26:31.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T19:26:31.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "MessageStatus.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\MessageStatus.cs",
               "RelativeDocumentMoniker": "Models\\MessageStatus.cs",
@@ -334,12 +267,11 @@
               "RelativeToolTip": "Models\\MessageStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:22:49.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:22:49.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -347,12 +279,111 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T01:07:43.529Z",
+              "WhenOpened": "2024-09-11T01:07:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoard.razor.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\DashBoard.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\DashBoard.razor.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\DashBoard.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\DashBoard.razor.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA7wDIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:46:46.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "DBModels\\Interfaces\\IChatService.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "DBModels\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:20:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\ChatService.cs",
+              "RelativeDocumentMoniker": "DBModels\\ChatService.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\ChatService.cs",
+              "RelativeToolTip": "DBModels\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:24:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Leads.razor",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Leads.razor",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor",
+              "RelativeToolTip": "Components\\Pages\\Leads.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:01:25.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Leads.razor.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Leads.razor.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Leads.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Leads.razor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:01:40.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MetaApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Services\\MetaServices\\MetaApiClient.cs",
+              "RelativeDocumentMoniker": "Services\\MetaServices\\MetaApiClient.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Services\\MetaServices\\MetaApiClient.cs",
+              "RelativeToolTip": "Services\\MetaServices\\MetaApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:40:46.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeadsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\LeadsApplication.cs",
+              "RelativeDocumentMoniker": "Application\\LeadsApplication.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\LeadsApplication.cs",
+              "RelativeToolTip": "Application\\LeadsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:21:56.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILeadsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\Interfaces\\ILeadsApplication.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ILeadsApplication.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Application\\Interfaces\\ILeadsApplication.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ILeadsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:43:52.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -360,12 +391,11 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T22:34:29.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T22:34:29.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "LeadSource.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\LeadSource.cs",
               "RelativeDocumentMoniker": "Models\\LeadSource.cs",
@@ -373,12 +403,23 @@
               "RelativeToolTip": "Models\\LeadSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T20:39:47.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T20:39:47.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "SendWhatsappMessageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
+              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
+              "RelativeToolTip": "Models\\AuxiliarModels\\SendWhatsappMessageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:45:35.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Models\\Chat.cs",
               "RelativeDocumentMoniker": "Models\\Chat.cs",
@@ -386,24 +427,11 @@
               "RelativeToolTip": "Models\\Chat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:23:19.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T18:23:19.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IChatService.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\Interfaces\\IChatService.cs",
-              "RelativeDocumentMoniker": "DBModels\\Interfaces\\IChatService.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\Interfaces\\IChatService.cs",
-              "RelativeToolTip": "DBModels\\Interfaces\\IChatService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:20:26.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
@@ -415,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "DashBoard.razor",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\DashBoard.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\DashBoard.razor",
@@ -423,25 +451,11 @@
               "RelativeToolTip": "Components\\Pages\\DashBoard.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T20:26:47.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T20:26:47.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ChatService.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\ChatService.cs",
-              "RelativeDocumentMoniker": "DBModels\\ChatService.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\ChatService.cs",
-              "RelativeToolTip": "DBModels\\ChatService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAzwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:24:25.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\DBModels\\DatabaseService.cs",
               "RelativeDocumentMoniker": "DBModels\\DatabaseService.cs",
@@ -453,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -465,20 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DashBoard.razor.cs",
-              "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\DashBoard.razor.cs",
-              "RelativeDocumentMoniker": "Components\\Pages\\DashBoard.razor.cs",
-              "ToolTip": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\DashBoard.razor.cs",
-              "RelativeToolTip": "Components\\Pages\\DashBoard.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T20:46:46.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\wwwroot\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\script.js",
@@ -490,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "MainLayout.razor.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Layout\\MainLayout.razor.cs",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.cs",
@@ -502,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "NavMenu.razor.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Layout\\NavMenu.razor.cs",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.cs",
@@ -526,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -538,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
@@ -550,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ConnectionStringUtils.cs",
               "DocumentMoniker": "C:\\Users\\lcggo\\Workspace\\Spill.Core.Web\\Utils\\ConnectionStringUtils.cs",
               "RelativeDocumentMoniker": "Utils\\ConnectionStringUtils.cs",

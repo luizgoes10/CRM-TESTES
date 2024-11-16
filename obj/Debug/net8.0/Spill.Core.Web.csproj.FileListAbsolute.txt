@@ -47,3 +47,8 @@ C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\refint\Spill.Core.Web.d
 C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\Spill.Core.Web.pdb
 C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\Spill.Core.Web.genruntimeconfig.cache
 C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\ref\Spill.Core.Web.dll
+C:\Users\lcggo\Workspace\Spill.Core.Web\bin\Debug\net8.0\Spill.Core.Web.staticwebassets.endpoints.json
+C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\Spill.Core.Web.sourcelink.json
+C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\staticwebassets\msbuild.Spill.Core.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lcggo\Workspace\Spill.Core.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
